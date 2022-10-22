@@ -278,8 +278,9 @@ header .navbar ul li a:hover {
 }
 
 .education .box-container .box span {
+    border: var(--border);
     font-size: 1.3rem;
-    background: #222;
+    background: transparent;
     color: #fff;
     border-radius: 5rem;
     padding: .5rem 2.5rem;
