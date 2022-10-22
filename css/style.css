@@ -188,6 +188,7 @@ header .navbar ul li a:hover {
 }
 
 .info h3 a {
+    text-transform: none;
     color: #fff;
 }
 
