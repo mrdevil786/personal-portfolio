@@ -6,7 +6,8 @@ Hello there! My name is Suhail Saeed Usmani, and I'm a passionate software devel
 
 In this repository, you'll find a variety of projects that demonstrate my proficiency in different programming languages and technologies, including:
 
-Web development (HTML, CSS, JavaScript, React, Node.js, etc.)
+- Web development (HTML, CSS, JavaScript, React, Node.js, etc.)
+
 Data analysis and visualization (Python, Pandas, Matplotlib, etc.)
 Machine learning and AI (Scikit-learn, TensorFlow, Keras, etc.)
 Automation and scripting (Python, Bash, PowerShell, etc.)
