@@ -24,6 +24,6 @@ If you're a recruiter or employer looking for a talented software developer, I h
 
 ## Let's Connect
 
-Thank you for taking the time to check out my github! If you want to get in touch or follow my work, you can find me on LinkedIn and Twitter. I'm always happy to connect with like-minded individuals and explore new opportunities.
+Thank you for taking the time to check out my Github ! If you want to get in touch or follow my work, you can find me on LinkedIn and Twitter. I'm always happy to connect with like-minded individuals and explore new opportunities.
 
 ### Happy coding!
