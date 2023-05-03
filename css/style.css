@@ -377,33 +377,7 @@ header .navbar ul li a:hover {
     margin-top: -40px;
 }
 
-/* end skill-- */
-.portfolio .box-container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-    padding: 2rem 0;
-}
-
-.portfolio .box-container .box {
-    height: 20rem;
-    width: 26rem;
-    border-radius: 1rem;
-    margin: 2rem;
-    overflow: hidden;
-    cursor: pointer;
-}
-
-.portfolio .box-container .box img {
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-}
-
-.portfolio .box-container .box:hover img {
-    transform: scale(1.2);
-}
+/* end skill */
 
 /* my projects start  */
 .project .box-container {
@@ -432,9 +406,37 @@ header .navbar ul li a:hover {
 .project .box-container .box:hover img {
     transform: scale(1.2);
 }
-
-
 /* my projects end */
+
+/* my portfolio start */
+.portfolio .box-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2rem 0;
+}
+
+.portfolio .box-container .box {
+    height: 20rem;
+    width: 26rem;
+    border-radius: 1rem;
+    margin: 2rem;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.portfolio .box-container .box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.portfolio .box-container .box:hover img {
+    transform: scale(1.2);
+}
+/* my portfolio end  */
+
 .contact .row {
     display: flex;
     align-items: center;
@@ -451,7 +453,7 @@ header .navbar ul li a:hover {
 .contact .row form {
     flex: 1 1 45rem;
     padding: 2rem;
-    margin: 2rem;
+    margin: 4rem;
     margin-bottom: 4rem;
 }
 
@@ -503,6 +505,9 @@ header .navbar ul li a:hover {
     display: none;
 }
 
+input, textarea {
+    border: var(--border);
+}
 
 
 
@@ -577,10 +582,6 @@ header .navbar ul li a:hover {
     }
 
     .education .box-container .box {
-        width: 100%;
-    }
-
-    .portfolio .box-container .box {
         width: 100%;
     }
 
